@@ -1,0 +1,10 @@
+Host: status.renren.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: zh-CN,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+DNT: 1
+Connection: keep-alive
+Referer: http://status.renren.com/status/v7/[[[id]]]
+Cookie: anonymid=jztbtaczcjz5s7; depovince=GW; jebecookies=a0d6f9e8-f62b-4e60-ade0-c93be8bb7b41|||||; _r01_=1; ick_login=916183ca-f830-4df5-8199-6241fb8309cb; _de=1061236010AA3A8AF9659ACC582D00F2FA025FA9A94C8260; p=1572976ef283e641625067b4624244e16; first_login_flag=1; ln_uact=[[[user account]]]; ln_hurl=[[[avatar url]]]; t=f3bba982c964fa353654ec7b672253326; societyguester=f3bba982c964fa353654ec7b672253326; id=[[[id]]]; xnsid=[[[id2]]]; loginfrom=syshome; ver=7.0; jebe_key=75de8f94-1f71-4afa-a077-49d07cf7c80a%7C3c62c6f52cbcfd24f7ed30f11610a469%7C1567364483510%7C1%7C1567364484938; wp_fold=0; XNESSESSIONID=0dc2ee8ea89a; ap=[[[ap]]]; JSESSIONID=abcuWf2QcpayxgyjbqUZw
